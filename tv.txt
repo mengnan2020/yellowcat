@@ -1,7 +1,11 @@
-﻿<网络><标题>贝爷影厅1号厅</标题><地址>http://tx2play1.douyucdn.cn/live/252802rbQGaZXUQi.flv?uuid=</地址></网络>
+<网络><标题>贝爷影厅1号厅</标题><地址>http://tx2play1.douyucdn.cn/live/252802rbQGaZXUQi.flv?uuid=</地址></网络>
 <网络><标题>斗鱼-香港电影</标题><地址>http://tx2play1.douyucdn.cn/live/122402rK7MO9bXSq.flv?uuid=</地址></网络>
 <网络><标题>斗鱼-经典电影</标题><地址>http://tx2play1.douyucdn.cn/live/3637778raLSXdOdu.flv?uuid=</地址></网络>
-<网络><标题>斗鱼-韩国女团</标题><地址>http://tx2play1.douyucdn.cn/live/329667rnoJ0R33Eh.flv?uuid=</地址></网络>
+<网络><标题>斗鱼-韩国女团1</标题><地址>http://tx2play1.douyucdn.cn/live/329667rnoJ0R33Eh.flv?uuid=</地址></网络>
+<网络><标题>斗鱼-韩国女团2</标题><地址>http://tx2play1.douyucdn.cn/live/222286rDBho7HJgO.flv?uuid=</地址></网络>
+<网络><标题>斗鱼-韩国女团3</标题><地址>http://tx2play1.douyucdn.cn/live/231464rDMujzJ5Lz.flv?uuid=</地址></网络>
+<网络><标题>斗鱼-抖音美女1</标题><地址>http://tx2play1.douyucdn.cn/live/7971641rkMNHliK4.flv?uuid=</地址></网络>
+<网络><标题>斗鱼-抖音美女2</标题><地址>http://tx2play1.douyucdn.cn/live/8901218rOM5kV6cN.flv?uuid=</地址></网络>
 <网络><标题>海爷_1号厅</标题><地址>https://cn-jswx2-cmcc-live-01.bilivideo.com/live-bvc/471169/live_27444411_4287972.m3u8</地址></网络>
 <网络><标题>海爷_2号厅</标题><地址>https://cn-jswx2-cmcc-live-01.bilivideo.com/live-bvc/979505/live_52370715_1734265.m3u8</地址></网络>
 <网络><标题>海爷_3号厅</标题><地址>https://cn-jswx2-cmcc-live-01.bilivideo.com/live-bvc/750227/live_268522326_2538218.m3u8</地址></网络>
